@@ -1,0 +1,78 @@
+.titulo {background-color: rgb(188, 240, 134);
+justify-content: center;}
+
+.fuentetitulo{
+font-size: large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif !important;} 
+
+.navegacion{
+justify-content: space-between;
+align-content: center;
+text-align: center;
+}
+
+.logo{height: 75px;
+width: 75px;
+justify-items: left;}
+
+
+    body {
+       background-image: url(https://st4.depositphotos.com/15827116/21256/i/450/depositphotos_212560504-stock-photo-bottle-beer-spraying-water-table.jpg);
+        
+background-size: contain;
+        background-repeat: no-repeat;
+        background-size:cover;
+   
+    }
+
+    
+
+.colormenufondo{background-color: brown !important;} 
+
+    p{color: aliceblue;
+    padding: 80px;
+    }
+
+
+.beertime {
+margin-left: 40%;
+
+height: 150px;
+width: 190px;
+flex: auto;
+image-orientation: 75grad;
+}
+
+.tiposcerveza {
+
+    width: 800px;
+    height: 550px;
+}
+
+
+.tablas{
+color: white;
+
+
+}
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+    color: azure
+ ;}
+  
+
+ .redeslogo {
+
+    width: 30px;
+    height: 30px;
+
+ }
+
+ footer {align-items: center;
+justify-content: center;
+text-align: center;
+
+}
