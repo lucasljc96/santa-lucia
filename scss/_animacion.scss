@@ -1,0 +1,12 @@
+.beericon{
+    position:fixed;
+    top: 400px;
+    left: 20px;
+
+
+transition: 2s;
+
+    &:hover{
+    transform: rotate(-360deg) translateY(-40px);
+}
+}

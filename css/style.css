@@ -1,0 +1,63 @@
+body {
+  background-image: url(https://st4.depositphotos.com/15827116/21256/i/450/depositphotos_212560504-stock-photo-bottle-beer-spraying-water-table.jpg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+  color: rgb(255, 255, 255);
+  padding: 80px;
+}
+
+.tiposcerveza {
+  width: 750px;
+  height: 500px;
+  justify-content: flex-start;
+  margin-left: 80px;
+}
+
+.pacifico-regular {
+  font-family: "Pacifico", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: azure;
+}
+
+.fuentetitulo {
+  font-size: large;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif !important;
+}
+
+footer {
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.redeslogo {
+  width: 30px;
+  height: 30px;
+}
+
+.tablas {
+  color: rgb(255, 255, 255);
+}
+
+.beericon {
+  position: fixed;
+  top: 400px;
+  left: 20px;
+  transition: 2s;
+}
+.beericon:hover {
+  transform: rotate(-360deg) translateY(-40px);
+}
+
+.beertime {
+  margin-left: 100px;
+  justify-items: center;
+  width: 500px;
+}
+
+/*# sourceMappingURL=style.css.map */
