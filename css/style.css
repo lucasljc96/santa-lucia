@@ -5,6 +5,11 @@ body {
   background-size: cover;
 }
 
+section {
+  display: flex;
+  justify-content: center;
+}
+
 p {
   color: rgb(255, 255, 255);
   padding: 80px;
@@ -13,8 +18,12 @@ p {
 .tiposcerveza {
   width: 750px;
   height: 500px;
-  justify-content: flex-start;
   margin-left: 80px;
+}
+
+section {
+  display: flex;
+  justify-content: center;
 }
 
 .pacifico-regular {
@@ -58,6 +67,12 @@ footer {
   margin-left: 100px;
   justify-items: center;
   width: 500px;
+}
+
+.equipo {
+  margin-top: 100px;
+  width: 700px;
+  height: 600px;
 }
 
 /*# sourceMappingURL=style.css.map */
