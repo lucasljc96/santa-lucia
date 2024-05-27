@@ -75,4 +75,65 @@ footer {
   height: 600px;
 }
 
+@media only screen and (max-width : 470px ){
+
+
+
+  .beertime {
+     display: none;
+  }
+
+  .tiposcerveza {
+      width: 280px;
+      height: 200px;
+  
+      
+      margin-left: 40px;
+  }
+
+  
+  
+  section {
+  
+      display: flex;
+      justify-content: center;
+  }
+.equipo {
+  width: 280px;
+  height: 200px;
+
+  display: flex;
+  justify-content: center;
+  
+  
+}
+  
+}
+@media only screen and (min-width : 470px ){
+  .beertime {
+    display: block;
+
+    width: 350px;
+    height: 150px;
+ }
+
+ .tiposcerveza {
+     width: 380px;
+     height: 300px;
+ 
+     
+     margin-left: 40px;
+ }
+ 
+ section {
+ 
+     display: flex;
+     justify-content: center;
+ }
+ .equipo{
+  width: 380px;
+  height: 300px;
+ }
+}
+
 /*# sourceMappingURL=style.css.map */
