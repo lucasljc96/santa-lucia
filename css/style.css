@@ -1,5 +1,5 @@
 body {
-  background-image: url(https://st4.depositphotos.com/15827116/21256/i/450/depositphotos_212560504-stock-photo-bottle-beer-spraying-water-table.jpg);
+  background-image: url(https://i0.wp.com/artbyrice.com/wp-content/uploads/2018/08/black-background-wood-i-e29da4-4k-hd-desktop-wallpaper-for-4k-ultra-hd.jpg);
   background-size: contain;
   background-repeat: no-repeat;
   background-size: cover;
@@ -13,6 +13,7 @@ section {
 p {
   color: rgb(255, 255, 255);
   padding: 80px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .tiposcerveza {
